@@ -59,7 +59,7 @@ Random Forest Classifier:
 Decision tree classifier:
 
 # Advanced Analysis
-**LIME (Local Interpretable Model-agnostic Explanations): Used to recognize instance-level model predictions. **
+**LIME (Local Interpretable Model-agnostic Explanations): Used to recognize instance-level model predictions.**
 ![Schermafbeelding 2024-01-10 190448](https://github.com/TheAIIR/Evaluating-Telemarketing-Strategies-in-Digital-Banking/assets/152230960/2f9edf53-611e-474b-bfe3-4de6157cbda5)
 
 **SHAP (SHapley Additive exPlanations): The impact of features on the model's output is interpreted using.**
