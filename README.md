@@ -36,6 +36,7 @@ The bank-full.csv dataset, which includes a variety of customer attributes and t
 # Analysis and preprocessing
 **Preprocessing and data exploration are the first steps:**
 Data preprocessing: feature scaling, data splitting, and one-hot encoding of categorical variables.
+
 <img width="935" alt="Screenshot 2023-11-30 at 17 56 40" src="https://github.com/martenzZe/Evaluating-Telemarketing-Strategies-in-Digital-Banking/assets/152230960/cca2055f-0d92-4122-a02d-1b5f7f480b72">
 <img width="1353" alt="Screenshot 2023-11-30 at 17 58 03" src="https://github.com/martenzZe/Evaluating-Telemarketing-Strategies-in-Digital-Banking/assets/152230960/6e2bedad-6ba4-49e2-95a3-c8c257ec7706">
 
